@@ -1,5 +1,5 @@
-const TIME = document.querySelector(".time");
-const DATE = document.querySelector(".date");
+const TIME = document.querySelector(".mdl-card__title-text");
+const DATE = document.querySelector(".mdl-card__supporting-text");
 
 var dateTime;
 var hour, min, sec;
